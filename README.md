@@ -262,8 +262,8 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🥴
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/pajohnson1126/learn-git-milestones/blob/81953a93dbeae167e57497ed468a485afd40a1da/README.md)
+1c | Link to markdown tables docs | [link](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 1d | What does `log` do? |
 2a | 2nd Favorite emoji | 😎
 2b | Link to `commit #2 from Github Desktop` |
