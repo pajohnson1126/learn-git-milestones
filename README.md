@@ -272,7 +272,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 🥳
 2f | Link to `commit #4 from Atom` | [link](https://github.com/pajohnson1126/learn-git-milestones/commit/c3f77ce4312d000cc4b0e7c4957e524f53ec6790)
 3a | Link to `my-awesome-project` github.com repo page | [link](https://github.com/pajohnson1126/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [link](https://pajohnson1126.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
