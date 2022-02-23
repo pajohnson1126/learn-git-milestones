@@ -267,7 +267,7 @@ Item # | Description | Completed
 1d | What does `log` do? | show commit logs
 2a | 2nd Favorite emoji | 😎
 2b | Link to `commit #2 from Github Desktop` | [link](https://github.com/pajohnson1126/learn-git-milestones/commit/0dc40578df4c1520970e89e986851d77a2bd84ee)
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/paigejohnson/Desktop/DAVIDSON/GAME DEV/learn-git-milestones/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
