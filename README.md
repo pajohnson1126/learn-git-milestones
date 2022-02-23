@@ -269,7 +269,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [link](https://github.com/pajohnson1126/learn-git-milestones/commit/0dc40578df4c1520970e89e986851d77a2bd84ee)
 2c | Full path to your working directory | /Users/paigejohnson/Desktop/DAVIDSON/GAME DEV/learn-git-milestones/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [link](https://github.com/pajohnson1126/learn-git-milestones/commit/d191e71bcb511605d34d46275066baabf11ab6d5)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 🥳
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
